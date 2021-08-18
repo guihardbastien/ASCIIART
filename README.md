@@ -1,4 +1,4 @@
-# python-tp3-bastien-guihard
+# ASCIIART
 
 ## Description
 
